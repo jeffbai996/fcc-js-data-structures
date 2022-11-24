@@ -33,16 +33,20 @@
 
 let myNestedArray = [
   // Only change code below this line
+  // 2 deep
   ['unshift', false],
   [
+    // 3 deep
     [1, 2, 3, 'deep', 'nested']
   ],
   [
     [
+      // 4 deep
       ['loop', 'deeper', 6, 7, 1000, 'method']
     ],
     [
       [
+        // 5 deep
         ['deepest']
       ]
 
