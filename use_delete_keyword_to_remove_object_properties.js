@@ -18,7 +18,9 @@ let foods = {
 };
 
 // Only change code below this line
-
+delete foods.oranges;
+delete foods.strawberries;
+delete foods.plums;
 // Only change code above this line
 
 console.log(foods);
